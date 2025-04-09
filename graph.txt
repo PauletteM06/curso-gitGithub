@@ -1,0 +1,13 @@
+* 813df9c Agregando los parrafos
+*   66f0a86 Resolviendo conflicto en estaciones del año
+|\  
+| * b49f5b2 Agregando las estaciones del año
+* | d8859fa Agregando estaciones del año con fecha de inicio
+|/  
+*   4c8a5a9 Merge branch 'js'
+|\  
+| * 42bc1e2 Creando index.js
+* | e1da003 Creando style.css
+* | 5a476f8 Creando index.html
+|/  
+* 8161543 Iniciando proyecto
